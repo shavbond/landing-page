@@ -1,0 +1,17 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Sample landing page for marketing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shavar Anson",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.2.6"
+  },
+  "devDependencies": {
+    "@barba/core": "^2.9.7"
+  }
+}
